@@ -8,3 +8,6 @@ function show()
 function get(){
     echo "这是一个get方法";
 }
+function post(){
+    echo "这是一个post方法";
+}
