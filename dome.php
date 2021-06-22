@@ -5,9 +5,18 @@ function show()
 {
     echo "这是一个什么东西啊";
 }
-function get(){
+
+function get()
+{
     echo "这是一个get方法";
 }
-function post(){
+
+function post()
+{
     echo "这是一个post方法";
+}
+
+function mach()
+{
+    echo "这是mach方法";
 }
