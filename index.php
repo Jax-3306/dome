@@ -1,3 +1,3 @@
 <?php
-echo 1111111；
+echo "线上测试"；
   phpinfo();
